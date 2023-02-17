@@ -1,4 +1,4 @@
-## ALGO Q2 & DATAENG Q4 CASES
+## ALGO & DATAENG
 
 Create a new environment and install the requirements.txt file.
 
@@ -6,7 +6,7 @@ Create a new environment and install the requirements.txt file.
     source venv/bin/activate
     pip install -r requirements.txt
 
-### ALGO Q2
+### ALGO
 
   Running the code is as simple as running the following command in the terminal:
 
@@ -21,7 +21,7 @@ Result will be printed in the terminal.
     input2: 2 7 10
     output: 6.0
 
-### DATAENG Q4
+### DATAENG
 
   Running the code is as simple as running the following command in the terminal:
 
